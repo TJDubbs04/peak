@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Using Peak
+    url: https://github.com/TJDubbs04/peak/blob/main/docs/USER_GUIDE.md
+    about: Install, permissions, every feature, updating, uninstalling and troubleshooting.

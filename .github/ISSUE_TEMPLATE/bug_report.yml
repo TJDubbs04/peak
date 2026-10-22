@@ -1,0 +1,54 @@
+name: Something's wrong
+description: Peak doesn't work as it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected instead
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen
+      description: The steps, and whether it happens every time.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Peak version
+      description: Settings › About.
+      placeholder: 1.0.0 (1)
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      description: Apple menu › About This Mac.
+      placeholder: macOS 26.1
+    validations:
+      required: true
+  - type: input
+    id: mac
+    attributes:
+      label: Mac model
+      placeholder: MacBook Pro 14-inch (M4, 2024)
+  - type: dropdown
+    id: displays
+    attributes:
+      label: Displays
+      options:
+        - The built-in display only
+        - External displays too
+  - type: textarea
+    id: more
+    attributes:
+      label: Anything else
+      description: A screenshot or a screen recording helps. Leave out anything private.
