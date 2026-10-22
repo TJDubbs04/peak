@@ -50,9 +50,11 @@ A new song, a finished download, a timer that's done, a new screenshot, a charge
 headphones connecting, a meeting starting. Each one shows for a moment and goes by itself; nothing piles up.
 
 <p align="center">
-  <img src="docs/images/song-change.png" alt="A moment: the new song's cover, title and artist below the notch">
-  <img src="docs/images/download-done.png" alt="A moment: a finished download with Show in Finder and Share">
-  <img src="docs/images/charging.png" alt="Beside the notch: a charging battery at 61% in green">
+  <img src="docs/images/song-change.png" width="49%" alt="A moment: the new song's cover, title and artist below the notch">
+  <img src="docs/images/download-done.png" width="49%" alt="A moment: a finished download with Show in Finder and Share">
+</p>
+<p align="center">
+  <img src="docs/images/charging.png" width="49%" alt="Beside the notch: a charging battery at 61% in green">
 </p>
 
 ### Hold files for a while
