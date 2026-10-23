@@ -4,7 +4,7 @@ Every change people using Peak would notice, newest first. Peak's versions are `
 ([semantic versioning](https://semver.org)): a patch fixes things, a minor version adds or changes something, a major
 version is a big change in what Peak is. Downloads: [releases](https://github.com/TJDubbs04/peak/releases).
 
-## [1.0.0] — coming soon
+## [1.0.0] — 23 October 2026
 
 Peak's first public release. Free to use.
 
